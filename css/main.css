@@ -5,12 +5,14 @@
 
 
 #new-arrival{
-    padding-left: 15px;
-    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
     height: 400px;
     margin-bottom:0px;
 }
 #banner {
+    margin-left: 15px;
+    margin-right: 15px;
     padding-top: 0px;
     margin-top: 0px;
     height: 100px;
